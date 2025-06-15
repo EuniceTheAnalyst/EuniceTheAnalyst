@@ -17,5 +17,6 @@ I'm a dedicated Data Analyst/Scientist passionate about transforming complex dat
 
 I bring a solution-oriented, detail-driven mindset to every project, with a goal to empower smarter decisions through data.  
 
-<!-- Github stats from https://github.com/EuniceTheAnalyst/github-readme-stats -->
-[![Eunice Nkiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuniceTheAnalyst&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
+
+<!-- Github stats from https://github.com/EuniceTheAnalyst/github-readme-stats -->  
+[![Eunice Nkiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuniceTheAnalyst&count_private=true&show_icons=true&theme=radical&hide_rank=false)]  
