@@ -6,7 +6,7 @@ I'm a dedicated Data Analyst/Scientist passionate about transforming complex dat
 **🔹Data Tools:** Excel, Power BI, Tableau, IBM SPSS  
 
 **🔹Programming:** Python, R  
-  
+   
 **🔹Techniques:** Data prep & analysis, modeling, machine learning, visualization, storytelling, Google BigQuery  
   
 **🔹Database Management:** SQL    
