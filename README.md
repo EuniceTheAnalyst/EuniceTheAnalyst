@@ -1,16 +1,18 @@
-## Hi there 👋
+### 👋 Hi, I'm Eunice Nkiru Chukwu  
+I'm a dedicated Data Analyst/Scientist passionate about transforming complex data into clear, actionable insights that drive impactful decisions. I specialize in identifying trends, optimizing processes, and building data-driven solutions that help organizations grow and innovate.  
+  
+**🔧 Skills & Expertise**   
 
-<!--
-**EuniceTheAnalyst/EuniceTheAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Tools:** Excel, Power BI, Tableau, IBM SPSS  
 
-Here are some ideas to get you started:
+**Programming:** Python, R  
+  
+**Techniques:** Data prep & analysis, modeling, machine learning, visualization, storytelling, Google BigQuery  
+  
+**Database Management:** SQL    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Survey Tools:** Google Forms  
+
+**Soft Skills:** Analytical thinking, collaboration, communication, attention to detail, research, and presentations
+
+I bring a solution-oriented, detail-driven mindset to every project, with a goal to empower smarter decisions through data.  
